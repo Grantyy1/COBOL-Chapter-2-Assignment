@@ -18,7 +18,9 @@ A COBOL program that calculates 3 differnt customer's service fees. It calculate
 
 ## Output of the code running:
 
-<img src="https://github.com/gafink01/Cobol-CALC2000/blob/main/assets/Output%20image.png" alt="Profile Picture" />
+<img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%201.png" alt="Profile Picture" />
+
+<img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%202.png" alt="Profile Picture" />
 
 ---
 
@@ -32,9 +34,6 @@ A COBOL program that calculates 3 differnt customer's service fees. It calculate
 ## Author
 
 👨‍💻 **Grant Peverett**
-
-<img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%201.png" alt="Profile Picture" width="100" /> <img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%202.png" /> 
-
 
 - **Grant Peverett GitHub Profile**: [Grantyy1](https://github.com/Grantyy1)
   
