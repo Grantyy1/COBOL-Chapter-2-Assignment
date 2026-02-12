@@ -33,7 +33,8 @@ A COBOL program that calculates 3 differnt customer's service fees. It calculate
 
 👨‍💻 **Grant Peverett**
 
-<img src="https://github.com/Grantyy1/Banking_App_2.0/blob/10657c1f1040e8041bc3800c4b000588742cfc73/Assets/8023B029-A886-4B1A-8DF6-1A7132D34B6A%20(1).JPG" alt="Profile Picture" width="100" /> 
+<img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%201.png" alt="Profile Picture" width="100" /> <img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%202.png" /> 
+
 
 - **Grant Peverett GitHub Profile**: [Grantyy1](https://github.com/Grantyy1)
   
