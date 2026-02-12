@@ -1,8 +1,7 @@
 # Cobol-CALC2000
 
 ## Introduction
-A small COBOL program that calculates the future value of a investment using a fixed annual interest rate over a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time(so that you get three future-value results total).
-
+A COBOL program that calculates 3 differnt customers service fees. It also calculates the next 3 tiers of future charges. It also displays the amount of KWH that is used. At the end of each customer it displayes the total billing that each customer will recieve. 
 ---
 
 ## 📑 Table of Contents
@@ -13,9 +12,9 @@ A small COBOL program that calculates the future value of a investment using a f
 --- 
 ## What does it do?
   For each run, the program will:
-    1. Calculate the future value for the innitial investment.
-    2. Doubles the investment amount and calculates again.
-    3. Doubles the investment amount again and calculates a third time.
+    1. Display the service charge.
+    2. Calculate and display the tier 1, tier 2, and tier 3 charges.
+    3. Takes all charges and calculates and displays the total billing for each customer.
 
 ## Output of the code running:
 
@@ -26,12 +25,11 @@ A small COBOL program that calculates the future value of a investment using a f
 ## COBOL Concepts covered in this assignment were:
       - Program header level documentation.
       - Defining working storage data items.
-      - Declaring procedure driven paragraphs 
       - Moving and computing values.
       - Displaying output code.
       
 ---
-## Authors
+## Author
 
 👨‍💻 **Grant Peverett**
 
@@ -40,11 +38,3 @@ A small COBOL program that calculates the future value of a investment using a f
 - **Grant Peverett GitHub Profile**: [Grantyy1](https://github.com/Grantyy1)
   
 - **Email**: [grpeve01@wsc.edu]
-  
-
- 
-👨‍💻 **Garret Finke GitHub Profile**: [gafink01](https://github.com/gafink01)
-  
-- **Email**: [gafink01@wsc.edu]
-
-[⬆️ Return to Top](#overview)
